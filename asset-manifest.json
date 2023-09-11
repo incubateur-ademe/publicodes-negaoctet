@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/publicodes-negaoctet/static/css/main.e7811a61.css",
+    "main.js": "/publicodes-negaoctet/static/js/main.be53fab0.js",
+    "index.html": "/publicodes-negaoctet/index.html",
+    "main.e7811a61.css.map": "/publicodes-negaoctet/static/css/main.e7811a61.css.map",
+    "main.be53fab0.js.map": "/publicodes-negaoctet/static/js/main.be53fab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7811a61.css",
+    "static/js/main.be53fab0.js"
+  ]
+}
